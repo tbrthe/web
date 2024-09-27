@@ -1,0 +1,72 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #f0f2f5;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #343a40;
+}
+
+.navbar-brand {
+  color: #fff;
+  font-weight: bold;
+}
+
+.card {
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-custom {
+  background-color: #28a745;
+  color: white;
+  border-radius: 50px;
+  padding: 10px 20px;
+}
+
+.btn-custom:hover {
+  background-color: #218838;
+}
+
+.hero {
+  background: linear-gradient(45deg, #42a5f5, #478ed1);
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  margin-top: 20px;
+}
+
+.stats-section {
+  background-color: #fff;
+  padding: 50px 0;
+}
+
+.stats-card {
+  background-color: #17a2b8;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.footer {
+  background-color: #343a40;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.footer a {
+  color: #42a5f5;
+}
